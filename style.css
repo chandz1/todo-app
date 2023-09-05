@@ -1,6 +1,9 @@
 body {
-    color: aqua;
+    color:black;
 }
 p {
     color: brown;
+}
+h1 {
+    background-color: chartreuse;
 }
